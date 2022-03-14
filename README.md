@@ -173,6 +173,7 @@
 ### 17. Dp Patterns
 
 https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
+https://leetcode.com/discuss/study-guide/1437879/Dynamic-Programming-Patterns
 
 ### 18. Miscellaneous
 
