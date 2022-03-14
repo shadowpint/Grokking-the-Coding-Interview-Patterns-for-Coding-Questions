@@ -170,11 +170,15 @@
 5. All Tasks Scheduling Orders \(hard\)
 6. Alien Dictionary \(hard\)
 
-### 17. Miscellaneous
+### 17. Dp Patterns
+
+https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
+
+### 18. Miscellaneous
 
 1. Kth Smallest Number \(hard\)
 
-### 18. Conclusions
+### 19. Conclusions
 
 Where to Go from Here [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/gx3j14p5Y3Y)
 
